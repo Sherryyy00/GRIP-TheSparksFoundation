@@ -44,7 +44,13 @@ The objective of this task is to predict the scores of students based on the num
 
 ### Output
 - A scatter plot of hours vs. scores.
+<p align="center">
+  <img src="https://github.com/Sherryyy00/GRIP-TheSparksFoundation/blob/main/Graphs/Graph1-T1.png", alt=" Monthly Bar Chart " width="50%" height="50%">
+</p>
 - A line plot of the regression line.
+<p align="center">
+  <img src="https://github.com/Sherryyy00/GRIP-TheSparksFoundation/blob/main/Graphs/Graph2-T1.png", alt=" Monthly Bar Chart " width="50%" height="50%">
+</p>
 - A comparison of actual and predicted scores.
 - Mean Absolute Error (MAE) value.
 
@@ -74,8 +80,13 @@ The objective of this task is to perform clustering on the Iris dataset to ident
    - Visualize the clusters and their centroids.
 
 ### Output
-- A plot showing the Elbow Method to determine the optimal number of clusters.
+- A plot showing the Elbow Method to determine the optimal number of clusters. 
+<p align="center">
+  <img src="https://github.com/Sherryyy00/GRIP-TheSparksFoundation/blob/main/Graphs/Graph1-T2.png", alt=" Monthly Bar Chart " width="50%" height="50%">
+   
 - A scatter plot visualizing the clusters and centroids.
+<p align="center">
+  <img src="https://github.com/Sherryyy00/GRIP-TheSparksFoundation/blob/main/Graphs/Graph2-T2.png", alt=" Monthly Bar Chart " width="50%" height="50%">
 
 ### Libraries Used
 - pandas
@@ -134,12 +145,38 @@ This project involves performing an exploratory data analysis (EDA) on a retail 
 The analysis provides several key insights:
 
 - **Overall Profit/Loss**: The business has a total profit of $286,241.42.
+
 - **Category and Region Performance**: Some categories and regions perform better than others. For instance, office supplies generally show positive profits, while furniture and technology vary.
+
+<p align="center">
+  <img src="https://github.com/Sherryyy00/GRIP-TheSparksFoundation/blob/main/Graphs/Graph1-T3.png", alt=" Monthly Bar Chart " width="50%" height="50%">
+   
+<p align="center">
+  <img src="https://github.com/Sherryyy00/GRIP-TheSparksFoundation/blob/main/Graphs/Graph2-T3.png", alt=" Monthly Bar Chart " width="50%" height="50%">
+
+<p align="center">
+  <img src="https://github.com/Sherryyy00/GRIP-TheSparksFoundation/blob/main/Graphs/Graph3-T3.png", alt=" Monthly Bar Chart " width="50%" height="50%">
+
+<p align="center">
+  <img src="https://github.com/Sherryyy00/GRIP-TheSparksFoundation/blob/main/Graphs/Graph4-T3.png", alt=" Monthly Bar Chart " width="50%" height="50%">
+   
+<p align="center">
+  <img src="https://github.com/Sherryyy00/GRIP-TheSparksFoundation/blob/main/Graphs/Graph5-T3.png", alt=" Monthly Bar Chart " width="50%" height="50%">  
+   
 - **Impact of Discounts**: Higher discounts generally lead to lower profits, indicating the need for optimized discount strategies.
+
+<p align="center">
+  <img src="https://github.com/Sherryyy00/GRIP-TheSparksFoundation/blob/main/Graphs/Graph6-T3.png", alt=" Monthly Bar Chart " width="50%" height="50%">
+   
 - **Shipping and Segmentation Insights**: The shipping method and customer segment analysis suggest opportunities to optimize shipping costs and target profitable customer segments.
 
-These insights can be used to make data-driven decisions to improve business profitability and efficiency.
+<p align="center">
+  <img src="https://github.com/Sherryyy00/GRIP-TheSparksFoundation/blob/main/Graphs/Graph7-T3.png", alt=" Monthly Bar Chart " width="50%" height="50%">
 
+<p align="center">
+  <img src="https://github.com/Sherryyy00/GRIP-TheSparksFoundation/blob/main/Graphs/Graph8-T3.png", alt=" Monthly Bar Chart " width="50%" height="50%">
+
+These insights can be used to make data-driven decisions to improve business profitability and efficiency.
 
 ## Conclusion
 This repository provides a comprehensive analysis of different datasets using linear regression, clustering, and exploratory data analysis techniques. The insights and visualizations derived from these tasks can help in making informed business decisions.
